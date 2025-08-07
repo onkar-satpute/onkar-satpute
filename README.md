@@ -79,9 +79,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=onkar-satpute&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![onkar-satpute's Stats](https://github-readme-stats.vercel.app/api?username=onkar-satpute&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)
+![onkar-satpute's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-satpute&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ###
 
